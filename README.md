@@ -20,7 +20,12 @@ Build Tool: Vite<br>
 <br>
 Img:<br>
 
+Register<br>
+
 ![Image](https://github.com/user-attachments/assets/a2249806-b9d8-4b5a-bcdd-eed2995b238b)
 
 login:<br>
 ![Image](https://github.com/user-attachments/assets/bacdd682-294c-4e7f-80d0-562e6eb791ad)
+
+Profile<br>
+![Image](https://github.com/user-attachments/assets/259c6904-5b22-4eab-8197-c9c71b7ab227)
