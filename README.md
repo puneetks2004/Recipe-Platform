@@ -19,5 +19,4 @@ Build Tool: Vite<br>
 
 <br>
 Img:<br>
-![Image](https://github.com/user-attachments/assets/bb66e4b3-8f6b-4fb1-b38a-9d5794534021)
 ![Image](https://github.com/user-attachments/assets/a61fe3b0-64b0-42ef-bcf5-081033d71132)
